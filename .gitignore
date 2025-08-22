@@ -1,0 +1,11 @@
+Backend\bin\*
+Frontend\bin\*
+Frontend\obj\*
+Backend\obj\*
+Backend/obj/
+
+Backend/bin/
+
+Frontend/bin/
+
+Frontend/obj/

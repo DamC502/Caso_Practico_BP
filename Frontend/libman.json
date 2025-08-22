@@ -1,0 +1,89 @@
+{
+  "version": "3.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.7.1",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "bootstrap@5.3.6",
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "select2@4.0.13",
+      "destination": "wwwroot/lib/select2/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "popper.js@2.11.8",
+      "destination": "wwwroot/lib/popper.js/",
+      "files": [
+        "umd/enums.js",
+        "umd/enums.js.map",
+        "umd/enums.min.js",
+        "umd/enums.min.js.map",
+        "umd/popper-base.js",
+        "umd/popper-base.js.map",
+        "umd/popper-base.min.js",
+        "umd/popper-base.min.js.map",
+        "umd/popper-lite.js",
+        "umd/popper-lite.js.map",
+        "umd/popper-lite.min.js",
+        "umd/popper-lite.min.js.map",
+        "umd/popper.js",
+        "umd/popper.js.map",
+        "umd/popper.min.js",
+        "umd/popper.min.js.map"
+      ]
+    },
+    {
+      "provider": "cdnjs",
+      "library": "font-awesome@7.0.0",
+      "destination": "wwwroot/lib/font-awesome/",
+      "files": [
+        "css/all.css",
+        "css/all.min.css",
+        "css/brands.css",
+        "css/brands.min.css",
+        "css/fontawesome.css",
+        "css/fontawesome.min.css",
+        "css/regular.css",
+        "css/regular.min.css",
+        "css/solid.css",
+        "css/solid.min.css",
+        "css/svg-with-js.css",
+        "css/svg-with-js.min.css",
+        "css/svg.css",
+        "css/svg.min.css",
+        "css/v4-font-face.css",
+        "css/v4-font-face.min.css",
+        "css/v4-shims.css",
+        "css/v4-shims.min.css",
+        "css/v5-font-face.css",
+        "css/v5-font-face.min.css",
+        "js/all.js",
+        "js/all.min.js",
+        "js/brands.js",
+        "js/brands.min.js",
+        "js/conflict-detection.js",
+        "js/conflict-detection.min.js",
+        "js/fontawesome.js",
+        "js/fontawesome.min.js",
+        "js/regular.js",
+        "js/regular.min.js",
+        "js/solid.js",
+        "js/solid.min.js",
+        "js/v4-shims.js",
+        "js/v4-shims.min.js"
+      ]
+    },
+    {
+      "provider": "cdnjs",
+      "library": "font-awesome@7.0.0",
+      "destination": "wwwroot/lib/font-awesome/"
+    }
+  ]
+}

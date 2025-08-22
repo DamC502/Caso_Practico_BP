@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\frontend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\frontend\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|solutionrelative:frontend\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\backend\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|solutionrelative:backend\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\backend\\services\\colaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|solutionrelative:backend\\services\\colaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\backend\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|solutionrelative:backend\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\backend\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\backend\\interfaces\\icolaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D833E9FF-A362-4B4F-84DE-ABAA020D1932}|Backend\\Backend.csproj|solutionrelative:backend\\interfaces\\icolaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\frontend\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 152,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Models\\Colaborador.cs",
+              "RelativeToolTip": "Backend\\Models\\Colaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:22:03.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "Backend\\Data\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:53:45.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColaboradorService.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Services\\ColaboradorService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ColaboradorService.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Services\\ColaboradorService.cs",
+              "RelativeToolTip": "Backend\\Services\\ColaboradorService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:02:43.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IColaboradorService.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Interfaces\\IColaboradorService.cs",
+              "RelativeDocumentMoniker": "Backend\\Interfaces\\IColaboradorService.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Interfaces\\IColaboradorService.cs",
+              "RelativeToolTip": "Backend\\Interfaces\\IColaboradorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:07:57.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColaboradorController.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Controllers\\ColaboradorController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ColaboradorController.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Controllers\\ColaboradorController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ColaboradorController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:02:46.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Frontend\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:20:39.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Frontend\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Models\\Colaborador.cs",
+              "RelativeToolTip": "Frontend\\Models\\Colaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:34:45.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAswLsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T09:19:43.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Frontend\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Frontend\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:11:16.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
