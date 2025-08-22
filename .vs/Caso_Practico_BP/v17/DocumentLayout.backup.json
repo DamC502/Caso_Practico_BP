@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\frontend\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|solutionrelative:frontend\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|c:\\users\\damia\\documents\\repos\\caso_practico_bp\\frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{691F457F-5233-454E-A7D1-288A8BEC6FBE}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 152,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\libman.json",
+              "RelativeDocumentMoniker": "Frontend\\libman.json",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\libman.json",
+              "RelativeToolTip": "Frontend\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T20:23:12.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Colaborador.cs",
               "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Models\\Colaborador.cs",
               "RelativeDocumentMoniker": "Backend\\Models\\Colaborador.cs",
@@ -74,12 +91,11 @@
               "RelativeToolTip": "Backend\\Models\\Colaborador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T18:22:03.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T18:22:03.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApiDbContext.cs",
               "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Data\\ApiDbContext.cs",
               "RelativeDocumentMoniker": "Backend\\Data\\ApiDbContext.cs",
@@ -87,12 +103,11 @@
               "RelativeToolTip": "Backend\\Data\\ApiDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:53:45.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:53:45.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ColaboradorService.cs",
               "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Services\\ColaboradorService.cs",
               "RelativeDocumentMoniker": "Backend\\Services\\ColaboradorService.cs",
@@ -100,12 +115,11 @@
               "RelativeToolTip": "Backend\\Services\\ColaboradorService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:02:43.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:02:43.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IColaboradorService.cs",
               "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Interfaces\\IColaboradorService.cs",
               "RelativeDocumentMoniker": "Backend\\Interfaces\\IColaboradorService.cs",
@@ -113,12 +127,11 @@
               "RelativeToolTip": "Backend\\Interfaces\\IColaboradorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:07:57.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:07:57.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ColaboradorController.cs",
               "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Backend\\Controllers\\ColaboradorController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\ColaboradorController.cs",
@@ -131,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Frontend\\Pages\\Shared\\_Layout.cshtml",
@@ -139,12 +152,11 @@
               "RelativeToolTip": "Frontend\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-22T16:20:39.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T16:20:39.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Colaborador.cs",
               "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Models\\Colaborador.cs",
               "RelativeDocumentMoniker": "Frontend\\Models\\Colaborador.cs",
@@ -152,8 +164,7 @@
               "RelativeToolTip": "Frontend\\Models\\Colaborador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T14:34:45.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T14:34:45.396Z"
             },
             {
               "$type": "Document",
@@ -163,14 +174,14 @@
               "RelativeDocumentMoniker": "Frontend\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Pages\\Index.cshtml",
               "RelativeToolTip": "Frontend\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAswLsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAAAHABAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-22T09:19:43.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\damia\\Documents\\Repos\\Caso_Practico_BP\\Frontend\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Frontend\\Pages\\Index.cshtml.cs",
@@ -178,8 +189,7 @@
               "RelativeToolTip": "Frontend\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T09:11:16.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T09:11:16.874Z"
             }
           ]
         }

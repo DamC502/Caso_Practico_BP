@@ -22,3 +22,9 @@ LibMan permite administrar librerías de frontend como **Bootstrap, jQuery, Font
 1. En Visual Studio, hacer clic derecho sobre el archivo **libman.json** 
 2. Hacer clic en **Restaurar** (Restore Client-Side libraries) el menú contextual. 
 
+## Direcciones por defecto: 
+
+```bash 
+    Dirección de la documentación la API: http://localhost:5238/swagger/index.html
+    URL frontend: http://localhost:5090/
+```
